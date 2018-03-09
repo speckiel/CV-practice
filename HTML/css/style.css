@@ -71,7 +71,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #D40057;
+    color              : #00a572;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -124,13 +124,13 @@ ul {
 
 /*btn-primary*/
 .btn-primary {
-    background-color : #D40057;
+    background-color : #00a572;
     }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active:focus {
-    background : #D40057;
+    background : #00a572;
     }
 
 /*btn-default*/

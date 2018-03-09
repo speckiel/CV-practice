@@ -468,12 +468,12 @@ button:focus,
     line-height    : 1;
     font-weight    : bold;
     text-transform : uppercase;
+    color: #00a572;
     }
 
 .content-item h4 {
     margin      : 0;
     line-height : 1;
-    color: #00a572;
     }
 
 .content-item small {
